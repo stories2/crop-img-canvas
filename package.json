@@ -1,0 +1,19 @@
+{
+  "name": "crop-img-canvas",
+  "version": "1.0.0",
+  "description": "Render cropped image to canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stories2/crop-img-canvas.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stories2/crop-img-canvas/issues"
+  },
+  "homepage": "https://github.com/stories2/crop-img-canvas#readme"
+}
